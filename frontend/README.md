@@ -1,4 +1,4 @@
-# computerstore
+# backend
 
 ## Project setup
 ```
